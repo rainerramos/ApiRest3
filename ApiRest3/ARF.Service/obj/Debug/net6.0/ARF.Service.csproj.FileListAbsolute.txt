@@ -1,0 +1,15 @@
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Service\bin\Debug\net6.0\ARF.Service.deps.json
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Service\bin\Debug\net6.0\ARF.Service.dll
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Service\bin\Debug\net6.0\ref\ARF.Service.dll
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Service\bin\Debug\net6.0\ARF.Service.pdb
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Service\bin\Debug\net6.0\ARF.Domain.dll
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Service\bin\Debug\net6.0\ARF.Domain.pdb
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Service\obj\Debug\net6.0\ARF.Service.csproj.AssemblyReference.cache
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Service\obj\Debug\net6.0\ARF.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Service\obj\Debug\net6.0\ARF.Service.AssemblyInfoInputs.cache
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Service\obj\Debug\net6.0\ARF.Service.AssemblyInfo.cs
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Service\obj\Debug\net6.0\ARF.Service.csproj.CoreCompileInputs.cache
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Service\obj\Debug\net6.0\ARF.Service.csproj.CopyComplete
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Service\obj\Debug\net6.0\ARF.Service.dll
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Service\obj\Debug\net6.0\ref\ARF.Service.dll
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Service\obj\Debug\net6.0\ARF.Service.pdb

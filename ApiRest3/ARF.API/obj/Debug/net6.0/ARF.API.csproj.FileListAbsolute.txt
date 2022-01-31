@@ -25,3 +25,7 @@ C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.API\obj\Debug\net6.0\ARF.API.dll
 C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.API\obj\Debug\net6.0\ref\ARF.API.dll
 C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.API\obj\Debug\net6.0\ARF.API.pdb
 C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.API\obj\Debug\net6.0\ARF.API.genruntimeconfig.cache
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.API\bin\Debug\net6.0\ARF.Domain.dll
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.API\bin\Debug\net6.0\ARF.Service.dll
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.API\bin\Debug\net6.0\ARF.Service.pdb
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.API\bin\Debug\net6.0\ARF.Domain.pdb

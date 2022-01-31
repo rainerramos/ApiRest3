@@ -1,0 +1,12 @@
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Domain\bin\Debug\net6.0\ARF.Domain.deps.json
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Domain\bin\Debug\net6.0\ARF.Domain.dll
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Domain\bin\Debug\net6.0\ref\ARF.Domain.dll
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Domain\bin\Debug\net6.0\ARF.Domain.pdb
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Domain\obj\Debug\net6.0\ARF.Domain.csproj.AssemblyReference.cache
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Domain\obj\Debug\net6.0\ARF.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Domain\obj\Debug\net6.0\ARF.Domain.AssemblyInfoInputs.cache
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Domain\obj\Debug\net6.0\ARF.Domain.AssemblyInfo.cs
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Domain\obj\Debug\net6.0\ARF.Domain.csproj.CoreCompileInputs.cache
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Domain\obj\Debug\net6.0\ARF.Domain.dll
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Domain\obj\Debug\net6.0\ref\ARF.Domain.dll
+C:\CSharp\src\ApiRest\ApiRest3\ApiRest3\ARF.Domain\obj\Debug\net6.0\ARF.Domain.pdb

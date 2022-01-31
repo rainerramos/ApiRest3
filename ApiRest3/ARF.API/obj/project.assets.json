@@ -72,6 +72,29 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "ARF.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ARF.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ARF.Domain.dll": {}
+        }
+      },
+      "ARF.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ARF.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ARF.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ARF.Service.dll": {}
+        }
       }
     }
   },
@@ -200,10 +223,21 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "ARF.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ARF.Domain/ARF.Domain.csproj",
+      "msbuildProject": "../ARF.Domain/ARF.Domain.csproj"
+    },
+    "ARF.Service/1.0.0": {
+      "type": "project",
+      "path": "../ARF.Service/ARF.Service.csproj",
+      "msbuildProject": "../ARF.Service/ARF.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "ARF.Service >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -233,7 +267,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\CSharp\\src\\ApiRest\\ApiRest3\\ApiRest3\\ARF.Service\\ARF.Service.csproj": {
+              "projectPath": "C:\\CSharp\\src\\ApiRest\\ApiRest3\\ApiRest3\\ARF.Service\\ARF.Service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
