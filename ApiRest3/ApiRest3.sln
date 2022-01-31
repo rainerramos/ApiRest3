@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARF.Domain", "ARF.Domain\ARF.Domain.csproj", "{1A941104-FB40-4EE9-BA20-0B9600669597}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Service", "1 - Service", "{4951F60E-E66F-4716-AA1F-07D659E6DD9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARF.Service", "ARF.Service\ARF.Service.csproj", "{54024B1A-5D82-449E-894E-61D5E3FBB52D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{1A941104-FB40-4EE9-BA20-0B9600669597}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A941104-FB40-4EE9-BA20-0B9600669597}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A941104-FB40-4EE9-BA20-0B9600669597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54024B1A-5D82-449E-894E-61D5E3FBB52D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54024B1A-5D82-449E-894E-61D5E3FBB52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54024B1A-5D82-449E-894E-61D5E3FBB52D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54024B1A-5D82-449E-894E-61D5E3FBB52D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{F8640B12-F2DA-4498-A20D-35DD4347F689} = {4D8A838D-48CD-4293-ACB3-F37BD5902239}
 		{1A941104-FB40-4EE9-BA20-0B9600669597} = {7C04E58B-DE8D-4BD0-8FEE-4DF75EE8C336}
+		{54024B1A-5D82-449E-894E-61D5E3FBB52D} = {4951F60E-E66F-4716-AA1F-07D659E6DD9C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {302D27EA-AB97-4F15-93E1-EB84B5EFC1DE}

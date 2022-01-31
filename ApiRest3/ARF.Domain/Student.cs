@@ -11,6 +11,7 @@ namespace ARF.Domain
 
         public Guid Id { get; private set; }
 
+
         [Required(AllowEmptyStrings =false, ErrorMessage = "Nome é obrigatório")]
         [MinLength(3, ErrorMessage = "O nome deve ter mais que 2 caracteres")]
         [MaxLength(150, ErrorMessage = "O nome deve ter 150 ou menos caracteres")]        
