@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "opivXQ77u0Quv4tt8QwdOec6zlwc2VZBoejVQ5KT+xsCYA74yMprj+q+lthcLclD6sZHgbghq6E8mCoOpmN7pg==",
+  "success": true,
+  "projectFilePath": "C:\\CSharp\\src\\ApiRest\\ApiRest3\\ApiRest3\\ARF.API\\ARF.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rainer\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Rainer\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Rainer\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rainer\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rainer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rainer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
